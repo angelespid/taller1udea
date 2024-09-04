@@ -1,6 +1,6 @@
-#include <iostream>  // Incluye la librería estándar para la entrada y salida
+#include <iostream>  
 
 int main() {
-    std::cout << "Hola, mundo!" << std::endl;  // Imprime el mensaje en la consola
-    return 0;  // Indica que el programa terminó correctamente
+    std::cout << "Hola, mundo!" << std::endl;  
+    return 0;  
 }
